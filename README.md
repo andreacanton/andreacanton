@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Canton
 - 👀 I’m interested in Javascript, Typescript, C#, .NET, SQL
-- 🌱 I’m currently learning Htmx and Go
+- 🌱 I’m currently learning htmx and go
 <!-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... -->
 
