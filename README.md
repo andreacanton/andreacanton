@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Canton
 - 👀 I’m interested in Javascript, Typescript, C#, .NET, SQL
-- 🌱 I’m currently learning to use LLM to improove my dev job
+- 🌱 I’m currently learning to use LLMs in everyday life
 <!-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... -->
 
